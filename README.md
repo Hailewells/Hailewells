@@ -1,6 +1,4 @@
-### Hi there 👋
 
-I am haileyesus from Ethiopia , i do development and design, i enjoy programming languages and frameworks like python, javascript, Html, Django... as well as networking on Huawei.
 
 ### Hi there 👋, my name is Haileyesus Tulu
 #### Developer and programmer
